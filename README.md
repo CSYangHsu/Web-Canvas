@@ -11,7 +11,7 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 * [UPLOAD](#UPLOAD)
 * [SAVE](#SAVE)
 * [RECTANGLE/CIRCLE/TRIANGLE](#RECTANGLE/CIRCLE/TRIANGLE)
-* [TEXT/PASTE](#TEXT/PASTE)  
+* [TEXT and PASTE](#TEXT and PASTE)  
 ## MENU
 * [COLOR](#COLOR)  
 * [SIZE](#SIZE)  
@@ -55,7 +55,7 @@ Note that the image of the cursor icon would be changed to cute cartoon images a
 
 
 
-### TEXT/PASTE
+### TEXT and PASTE
 * TEXT:  
 A text box would appear at where the user click. Type in your input, click anywhere, then the text would be printed on the canvas.  
 ![image](https://user-images.githubusercontent.com/86723888/179060128-57e30b4b-8015-40cb-8043-89eb6845e108.png)
