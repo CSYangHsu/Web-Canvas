@@ -15,7 +15,19 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 * [COLOR](#COLOR)  
   
 ## UPLOAD
+User can upload image and paste it onto the canvas.  
+![image](https://user-images.githubusercontent.com/86723888/179055674-f95719a2-367c-4458-b761-cd027377e1ce.png)
+![image](https://user-images.githubusercontent.com/86723888/179055712-83562824-5f01-422d-9722-0016501ef8b8.png)
+
+
+
+
+
 ## SAVE
+Download current canvas as an image file.
+![image](https://user-images.githubusercontent.com/86723888/179055245-f71d930a-6fce-4f43-bd0f-04f182608253.png)
+
+
 ## UNDO/REDO/CLEAR
 ## RECTANGLE/CIRCLE/TRIANGLE
 Change the brush shape into different shapes.
