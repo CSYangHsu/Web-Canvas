@@ -19,9 +19,8 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 ## UNDO/REDO/CLEAR
 ## RECTANGLE/CIRCLE/TRIANGLE
 Change the brush shape into different shapes.
-Then,drag the cursor to make circles, rectangles, and triangles of different size. 
-![image](https://user-images.githubusercontent.com/86723888/179053241-3bf96e49-70b4-4e9b-bb83-f86ca2be8195.png)
-![image](https://user-images.githubusercontent.com/86723888/179052969-7bf335d1-154d-4c4a-9552-1d23d0e40551.png)
+Then,drag the cursor to make circles, rectangles, and triangles of different size.   
+Note that the image of the cursor icon would be changed according to the currently used tool. 
 ![image](https://user-images.githubusercontent.com/86723888/179053013-0cac8929-824f-4a90-ba9c-6ce00bf0a4f5.png)
 ![image](https://user-images.githubusercontent.com/86723888/179053047-f5f61e66-69d6-47d5-9d0a-e8ca93ae545b.png)
 
