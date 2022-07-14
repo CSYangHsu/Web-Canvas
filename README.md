@@ -17,7 +17,7 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 * [SIZE](#SIZE)  
 * [FONT](#FONT)  
   
-#### UPLOAD
+### UPLOAD
 User can upload image and paste it onto the canvas.  
 ![image](https://user-images.githubusercontent.com/86723888/179055674-f95719a2-367c-4458-b761-cd027377e1ce.png)      
   
@@ -31,7 +31,7 @@ User can upload image and paste it onto the canvas.
 
 
 
-#### SAVE
+### SAVE
 Download current canvas as an image file.
 ![image](https://user-images.githubusercontent.com/86723888/179056251-24f69220-bfdb-4095-bf6e-bba9caa37bff.png)
   
@@ -45,7 +45,7 @@ The downloaded file would be the image below:
 
 
 
-#### RECTANGLE/CIRCLE/TRIANGLE
+### RECTANGLE/CIRCLE/TRIANGLE
 Change the brush shape into different shapes.
 Then,drag the cursor to make circles, rectangles, and triangles of different size.   
 ![image](https://user-images.githubusercontent.com/86723888/179053757-43703d24-cb99-40b8-bce3-49b66e37425c.png)
@@ -55,8 +55,14 @@ Note that the image of the cursor icon would be changed to cute cartoon images a
 
 
 
-#### TEXT/PASTE
-#### COLOR
-#### SIZE
-#### FONT
+### TEXT/PASTE
+* TEXT:  
+A text box would appear at where the user click. Type in your input, click anywhere, then the text would be printed on the canvas.  
+![image](https://user-images.githubusercontent.com/86723888/179060128-57e30b4b-8015-40cb-8043-89eb6845e108.png)
+![image](https://user-images.githubusercontent.com/86723888/179060077-1b6d7801-f5a0-4e04-8d30-be3f41a28f27.png)
+
+* PASTE:  
+### COLOR
+### SIZE
+### FONT
 
