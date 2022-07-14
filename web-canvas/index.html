@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>assignment1 109062136</title>
+
+		<!-- CSS and javascript -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+		
+	</head>
+    <body>
+        <h1 style="text-align:center" >WEB CANVAS</h1>
+        <div class="field">
+            <canvas id = "canvas"></canvas>
+        </div>
+        
+            <button type="button" class="button" onclick="save_is_clicked(this)" id="save">SAVE</button>
+                
+            <button type="button" class="button" onclick="document.getElementById('fileUpload').click()" id="upload">UPLOAD</button>
+        
+            <input type='file' style="display:none" id="fileUpload"  ></input>
+        
+        <div class="tools">
+            <button type="button" class="button" onclick="undo()">Undo</button>
+            <button type="button" class="button" onclick="clear_all()">Clear</button>
+            <button type="button" class="button" onclick="redo()">Redo</button>       
+                
+        </div>
+        </div>
+        <div class="tools">    
+            <div class="color-field" style="background: rgb(15, 6, 14); " onclick="change_color(this)"></div>
+            <div class="color-field" style="background: rgb(255, 0, 0);" onclick="change_color(this)" style="float:left"></div>
+            <div class="color-field" style="background: rgb(222, 128, 4);" onclick="change_color(this)"></div>
+            <div class="color-field" style="background: rgb(226, 212, 17);" onclick="change_color(this)"></div>
+        
+            <div class="color-field" style="background: rgb(13, 255, 0);" onclick="change_color(this)"></div>
+            <div class="color-field" style="background: rgb(35, 52, 204);" onclick="change_color(this)"></div>
+       
+            <div class="color-field" style="background: rgb(35, 201, 204);" onclick="change_color(this)"></div>
+            <div class="color-field" style="background: rgb(52, 18, 117);" onclick="change_color(this)"></div>
+        </div>
+        <div class="tools">    
+            
+            <input type="color" class="color-picker" id="color_picker" oninput="color_picker_change(this)">
+            <input type="range" min="1" max="100" class="pen-range" oninput="pen_range_change(this)" value="20" >
+            <button type="button" class="button" onclick="pen_is_clicked(this)">PEN</button>
+            <button type="button" class="button" onclick="eraser_is_clicked(this)">ERASER</button>
+            <button type="button" class="button" onclick="text_is_clicked(this)">Text</button>
+            <button type="button" class="button" onclick="paste_is_clicked(this)">Paste</button>
+            <select id="font_choose">
+                <option value="serif" selected>Serif</option>
+                <option value="fantasy">Fantasy</option>
+                <option value="cursive" >Cursive</option>
+                <option value="monospace" >Monospace</option>
+                
+            </select>
+        </div>
+        <div class="field">    
+        
+            <div class="tools">  
+                <button type="button" class="button" onclick="rect_is_clicked(this)">Rectangle</button>
+                <button type="button" class="button" onclick="circle_is_clicked(this)">Circle</button>
+                <button type="button" class="button" onclick="triangle_is_clicked(this)">Triangle</button>
+
+            </div>
+
+            <!-- <button type="button" class="button" onclick="save_is_clicked(this)">SAVE</button>
+                
+            <button type="button" class="button" onclick="document.getElementById('fileUpload').click()">UPLOAD</button>
+            <input type='file' style="display:none" id="fileUpload"  ></input> -->
+            
+            <!-- <div class="tools">  
+                <button type="button" class="button" onclick="rect_is_clicked(this)">Rectangle</button>
+                <button type="button" class="button" onclick="circle_is_clicked(this)">Circle</button>
+                <button type="button" class="button" onclick="triangle_is_clicked(this)">Triangle</button>
+
+            </div> -->
+
+
+        </div>
+	
+        <script src="script.js"></script>
+	</body>
+</html>

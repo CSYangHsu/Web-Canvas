@@ -1,0 +1,110 @@
+body {
+    font-family: "Mukta";
+    margin: 0px;
+    background: rgba(99, 55, 12, 0.6);
+
+}
+
+
+.tools{
+    display: flex;
+    justify-content: center; 
+    flex-direction: row;
+    margin-top: 15px;
+    /* background: rgba(137, 173, 44, 0.4); */
+}
+
+
+
+canvas {
+    margin: 20px;
+    box-shadow: -3px 2px 9px 6px black;
+    cursor: pointer;
+    border: 3px dashed rgb(31, 119, 18);
+    background-color: white; 
+    
+}
+
+.color-field{
+    
+    height: 40px;
+    width: 40px;
+    min-width: 40px;
+    min-height: 40px;
+    cursor: pointer;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 2px solid white;
+    align-self: center;
+    margin: 0 10px;
+    margin-left: 30px;
+    margin-top: 15px;
+    
+    
+    
+}
+
+
+.button{
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    align-self: center;
+    border: 2px solid white;
+    background: black;
+    align-self: center;
+    font-weight: bold;
+    color: aliceblue;
+    margin: 0 10px;
+    
+    
+}
+#save{
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    align-self: center;
+    border: 2px solid white;
+    background: black;
+    align-self: center;
+    font-weight: bold;
+    color: aliceblue;
+    margin: 0 10px;
+    justify-content: left; 
+    
+    
+}
+#upload{
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    align-self: center;
+    border: 2px solid white;
+    background: black;
+    align-self: center;
+    font-weight: bold;
+    color: aliceblue;
+    margin: 0 10px;
+    justify-content: right; 
+    
+    
+}
+
+.color-picker {
+    align-self: center;
+    margin: 0 10px;
+    height: 40px;
+    width: 80px;
+    margin-left: 30px;
+    margin-top: 10px;
+    
+}
+
+.pen-range {
+    align-self: center;
+    margin: 0 10px;
+    
+  
+}
+
