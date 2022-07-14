@@ -11,7 +11,7 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 * [UPLOAD](#UPLOAD)
 * [SAVE](#SAVE)
 * [RECTANGLE/CIRCLE/TRIANGLE](#RECTANGLE/CIRCLE/TRIANGLE)
-* [TEXT and PASTE](#TEXT and PASTE)  
+* [TEXT and PASTE](#TEXT-and-PASTE)  
 ## MENU
 * [COLOR](#COLOR)  
 * [SIZE](#SIZE)  
