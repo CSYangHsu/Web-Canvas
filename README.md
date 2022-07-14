@@ -30,7 +30,15 @@ User can upload image and paste it onto the canvas.
 
 ## SAVE
 Download current canvas as an image file.
-![image](https://user-images.githubusercontent.com/86723888/179055245-f71d930a-6fce-4f43-bd0f-04f182608253.png)
+![image](https://user-images.githubusercontent.com/86723888/179056251-24f69220-bfdb-4095-bf6e-bba9caa37bff.png)
+  
+    
+      
+
+  
+The downloaded file would be the image below:  
+![image](https://user-images.githubusercontent.com/86723888/179056344-25912be3-0f4a-49c3-b879-1998153d0725.png)
+
 
 
 ## UNDO/REDO/CLEAR
