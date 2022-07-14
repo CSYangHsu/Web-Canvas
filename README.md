@@ -17,7 +17,12 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 ## UPLOAD
 User can upload image and paste it onto the canvas.  
 ![image](https://user-images.githubusercontent.com/86723888/179055674-f95719a2-367c-4458-b761-cd027377e1ce.png)      
-  ![image](https://user-images.githubusercontent.com/86723888/179055900-55c43c7f-a8f0-4ba1-b5e8-d95e315c24c2.png)
+  
+    
+      
+
+  
+![image](https://user-images.githubusercontent.com/86723888/179055900-55c43c7f-a8f0-4ba1-b5e8-d95e315c24c2.png)
 
 
 
