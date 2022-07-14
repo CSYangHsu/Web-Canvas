@@ -7,12 +7,15 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 ## TOOLS
 * PEN
 * ERASER
+* UNDO/REDO/CLEAR: Undo/Redo your action, or clean up the whole canvas. 
 * [UPLOAD](#UPLOAD)
 * [SAVE](#SAVE)
-* [UNDO/REDO/CLEAR](#UND)
 * [RECTANGLE/CIRCLE/TRIANGLE](#RECTANGLE/CIRCLE/TRIANGLE)
-* [TEXT/PASTE](#TEXT/PASTE)
+* [TEXT/PASTE](#TEXT/PASTE)  
+## MENU
 * [COLOR](#COLOR)  
+* [SIZE](#SIZE)  
+* [FONT](#FONT)  
   
 ## UPLOAD
 User can upload image and paste it onto the canvas.  
@@ -41,7 +44,7 @@ The downloaded file would be the image below:
 
 
 
-## UND
+
 ## RECTANGLE/CIRCLE/TRIANGLE
 Change the brush shape into different shapes.
 Then,drag the cursor to make circles, rectangles, and triangles of different size.   
@@ -54,4 +57,6 @@ Note that the image of the cursor icon would be changed to cute cartoon images a
 
 ## TEXT/PASTE
 ## COLOR
+## SIZE
+## FONT
 
