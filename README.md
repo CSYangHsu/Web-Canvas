@@ -58,8 +58,8 @@ Note that the image of the cursor icon would be changed to cute cartoon images a
 ### TEXT and PASTE
 * TEXT:  
 A text box would appear at where the user click. Type in your input, click anywhere, then the text would be printed on the canvas.  
-![image](https://user-images.githubusercontent.com/86723888/179060128-57e30b4b-8015-40cb-8043-89eb6845e108.png)
-![image](https://user-images.githubusercontent.com/86723888/179060077-1b6d7801-f5a0-4e04-8d30-be3f41a28f27.png)
+![image](https://user-images.githubusercontent.com/86723888/179060523-7794c164-eec8-45fc-8675-2c3fbd21c040.png)
+![image](https://user-images.githubusercontent.com/86723888/179060581-0f86552c-7df6-406b-b173-2d04c086dc90.png)
 
 * PASTE:  
 ### COLOR
