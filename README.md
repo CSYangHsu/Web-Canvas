@@ -61,7 +61,7 @@ A text box would appear at where the user click. Type in your input, click anywh
 ![image](https://user-images.githubusercontent.com/86723888/179060811-8212e50e-972b-4894-b4d6-6e3ee3691ae3.png)
 ![image](https://user-images.githubusercontent.com/86723888/179060834-a5194a80-f3c8-4e88-b001-12dc807c71ea.png)
 
-* PASTE: 
+* PASTE:   
 Once the user tried the "TEXT" button, they could click the "Paste" button and paste the text infinity times.
 ![image](https://user-images.githubusercontent.com/86723888/179061317-4b67ffc3-f58d-4233-bd8a-c4f0c7aaf964.png)
 
