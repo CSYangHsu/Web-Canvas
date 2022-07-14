@@ -9,7 +9,7 @@ Demo link:  https://software-studio-89433.firebaseapp.com/
 * ERASER
 * [UPLOAD](#UPLOAD)
 * [SAVE](#SAVE)
-* [UNDO/REDO/CLEAR](#UNDO/REDO/CLEAR)
+* [UNDO/REDO/CLEAR](#UND)
 * [RECTANGLE/CIRCLE/TRIANGLE](#RECTANGLE/CIRCLE/TRIANGLE)
 * [TEXT/PASTE](#TEXT/PASTE)
 * [COLOR](#COLOR)  
@@ -41,7 +41,7 @@ The downloaded file would be the image below:
 
 
 
-## UNDO/REDO/CLEAR
+## UND
 ## RECTANGLE/CIRCLE/TRIANGLE
 Change the brush shape into different shapes.
 Then,drag the cursor to make circles, rectangles, and triangles of different size.   
