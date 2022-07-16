@@ -75,9 +75,9 @@ Otherwise, you can customized any color you want by clicking the COLOR PICKER sh
 
 
 ### SIZE
+![image](https://user-images.githubusercontent.com/86723888/179363593-cdf8b658-f780-4f17-afe9-0916a00c9810.png)  
 The range bar could help adjust the size of your PEN, ERASER,TEXT, RECTENGLE, CIRCLE, and TRIANGLE.  
-![image](https://user-images.githubusercontent.com/86723888/179363593-cdf8b658-f780-4f17-afe9-0916a00c9810.png)
-![image](https://user-images.githubusercontent.com/86723888/179363748-523b7dd7-44a5-4122-b821-a137dc513a16.png)
+![image](https://user-images.githubusercontent.com/86723888/179363877-ae08fe63-cac8-4ba8-b34d-2d1d0c3a8b47.png)
 
 
 ### FONT
