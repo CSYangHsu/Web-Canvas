@@ -68,21 +68,21 @@ Once the user tried the "TEXT" button, they could click the "Paste" button and p
 ### COLOR
 The color of your PEN, TEXT, RECTENGLE, CIRCLE, and TRIANGLE. can be customized.  
 Obviously, you can select the color which is already provided.  
-Otherwise, you can customized any color you want by clicking the COLOR PICKER shown below.  
+Otherwise, you can customized any color you want by clicking the COLOR PICKER shown below.    
 ![image](https://user-images.githubusercontent.com/86723888/179363572-0079870f-bd37-4692-97e1-8f11a55f5798.png)
 ![image](https://user-images.githubusercontent.com/86723888/179363552-cb3f9bd3-899b-4bd2-a0ca-18d8b2591075.png)
 
 
 
 ### SIZE
-The range bar could help adjust the size of your PEN, ERASER,TEXT, RECTENGLE, CIRCLE, and TRIANGLE.
-![image](https://user-images.githubusercontent.com/86723888/179363593-cdf8b658-f780-4f17-afe9-0916a00c9810.png)  
+The range bar could help adjust the size of your PEN, ERASER,TEXT, RECTENGLE, CIRCLE, and TRIANGLE.  
+![image](https://user-images.githubusercontent.com/86723888/179363593-cdf8b658-f780-4f17-afe9-0916a00c9810.png)
 ![image](https://user-images.githubusercontent.com/86723888/179363748-523b7dd7-44a5-4122-b821-a137dc513a16.png)
 
 
 ### FONT
-You can change the font of TEXT by the FONT MENU.
-![image](https://user-images.githubusercontent.com/86723888/179363765-660e4df8-bd64-4f7d-9878-60f30d40b12d.png)  
+You can change the font of TEXT by the FONT MENU.  
+![image](https://user-images.githubusercontent.com/86723888/179363765-660e4df8-bd64-4f7d-9878-60f30d40b12d.png)
 ![image](https://user-images.githubusercontent.com/86723888/179363834-daedae66-25c4-4182-8029-c6591b55840b.png)
 
 
