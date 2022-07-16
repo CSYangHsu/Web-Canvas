@@ -66,6 +66,14 @@ Once the user tried the "TEXT" button, they could click the "Paste" button and p
 ![image](https://user-images.githubusercontent.com/86723888/179061317-4b67ffc3-f58d-4233-bd8a-c4f0c7aaf964.png)
 
 ### COLOR
+The color of your PEN, TEXT, RECTENGLE, CIRCLE, and TRIANGLE can be customized.  
+Obviously, you can select the color which is already provided.  
+Otherwise, you can customized any color you want by clicking the COLOR PICKER shown below.  
+![image](https://user-images.githubusercontent.com/86723888/179363534-dc11166b-e516-46ed-8f28-0f22c9544dc1.png)
+![image](https://user-images.githubusercontent.com/86723888/179363552-cb3f9bd3-899b-4bd2-a0ca-18d8b2591075.png)
+
+
+
 ### SIZE
 ### FONT
 
